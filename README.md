@@ -66,6 +66,21 @@ GitHub URL: https://github.com/three-cobbler/AlternusVera
 - Real news data from published articles (https://www.kaggle.com/snapcrack/all-the-news --- articles1)
 - Fake news data from Kaggle (https://www.kaggle.com/mrisdal/fake-news)
 
+#### Existing data source
+word2vec-GoogleNews-vectors (https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit)
+
+https://github.com/BuzzFeedNews/2016-10-facebookfact-check/tree/master/data
+
+https://www.cs.ucsb.edu/william/data/liardataset.zip
+
+https://www.kaggle.com/mrisdal/fake-news
+
+https://github.com/bs-detector/bs-detector
+
+http://compsocial.github.io/CREDBANK-data/
+
+http://www.politifact.com/
+
 #### Libraries Used
 
 - NLTK
